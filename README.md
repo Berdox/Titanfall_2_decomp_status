@@ -13,28 +13,28 @@ static CRT are excluded). Sizes are contiguous bytes (`.pdata` end when availabl
 | amd_ags_x64.dll | amd | no | msvc_18_00_40629 | 297 | 165 | 5 | 127 | 43,582 | 0 | 0 | 0.00 |
 | Titanfall2.exe | respawn | no | msvc_17_00_61219 | 227 | 225 | 2 | 0 | 52,368 | 0 | 0 | 0.00 |
 | rtech_game.dll | respawn | yes | msvc_17_00_61219 | 815 | 490 | 6 | 319 | 100,349 | 71 | 9,458 | 9.43 |
-| inputsystem.dll | respawn | yes | msvc_17_00_61219 | 1562 | 1062 | 18 | 482 | 182,190 | 315 | 45,504 | 24.98 |
-| tier0.dll | respawn | yes | msvc_17_00_61219 | 1884 | 1305 | 18 | 561 | 190,367 | 777 | 85,593 | 44.96 |
+| inputsystem.dll | respawn | yes | msvc_17_00_61219 | 1562 | 1062 | 18 | 482 | 182,190 | 316 | 45,523 | 24.99 |
+| tier0.dll | respawn | yes | msvc_17_00_61219 | 1884 | 1305 | 18 | 561 | 190,367 | 784 | 86,066 | 45.21 |
 | GFSDK_SSAO.win64.dll | nvidia | no | msvc_16_00_40219 | 1271 | 714 | 119 | 438 | 216,820 | 0 | 0 | 0.00 |
-| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 309 | 44,886 | 19.97 |
-| vstdlib.dll | respawn | yes | msvc_17_00_61219 | 1973 | 1475 | 15 | 483 | 227,905 | 1026 | 127,302 | 55.86 |
+| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 310 | 44,905 | 19.97 |
+| vstdlib.dll | respawn | yes | msvc_17_00_61219 | 1973 | 1475 | 15 | 483 | 227,905 | 1060 | 132,248 | 58.03 |
 | bink2w64.dll | bink | no | msvc_15_00_30729 | 605 | 434 | 29 | 142 | 249,355 | 0 | 0 | 0.00 |
-| launcher.dll | respawn | yes | msvc_17_00_61219 | 1961 | 1398 | 15 | 548 | 258,065 | 301 | 43,659 | 16.92 |
-| studiorender.dll | respawn | yes | msvc_17_00_61219 | 1639 | 1146 | 11 | 482 | 266,421 | 308 | 44,209 | 16.59 |
+| launcher.dll | respawn | yes | msvc_17_00_61219 | 1961 | 1398 | 15 | 548 | 258,065 | 302 | 43,678 | 16.93 |
+| studiorender.dll | respawn | yes | msvc_17_00_61219 | 1639 | 1146 | 11 | 482 | 266,421 | 309 | 44,228 | 16.60 |
 | mileswin64.dll | miles | no | msvc_16_00_40219 | 1012 | 780 | 18 | 214 | 268,738 | 0 | 0 | 0.00 |
-| filesystem_stdio.dll | respawn | yes | msvc_17_00_61219 | 3369 | 2730 | 28 | 611 | 564,714 | 302 | 43,859 | 7.77 |
-| datacache.dll | respawn | yes | msvc_17_00_61219 | 2568 | 2070 | 14 | 484 | 615,052 | 311 | 45,318 | 7.37 |
-| vgui2.dll | respawn | yes | msvc_17_00_61219 | 4016 | 3418 | 33 | 565 | 664,058 | 299 | 42,185 | 6.35 |
+| filesystem_stdio.dll | respawn | yes | msvc_17_00_61219 | 3369 | 2730 | 28 | 611 | 564,714 | 303 | 43,878 | 7.77 |
+| datacache.dll | respawn | yes | msvc_17_00_61219 | 2568 | 2070 | 14 | 484 | 615,052 | 313 | 45,506 | 7.40 |
+| vgui2.dll | respawn | yes | msvc_17_00_61219 | 4016 | 3418 | 33 | 565 | 664,058 | 300 | 42,204 | 6.36 |
 | OriginSDK.dll | ea | no | msvc_17_00_61219 | 4633 | 4547 | 71 | 15 | 682,863 | 0 | 0 | 0.00 |
-| vphysics.dll | respawn | yes | msvc_17_00_61219 | 5909 | 5371 | 25 | 513 | 1,302,492 | 349 | 48,242 | 3.70 |
-| materialsystem_dx11.dll | respawn | yes | msvc_17_00_61219 | 8457 | 7305 | 98 | 1054 | 1,392,406 | 307 | 43,577 | 3.13 |
-| vguimatsurface.dll | respawn | yes | msvc_17_00_61219 | 8634 | 8012 | 77 | 545 | 1,538,790 | 321 | 45,872 | 2.98 |
+| vphysics.dll | respawn | yes | msvc_17_00_61219 | 5909 | 5371 | 25 | 513 | 1,302,492 | 352 | 48,775 | 3.74 |
+| materialsystem_dx11.dll | respawn | yes | msvc_17_00_61219 | 8457 | 7305 | 98 | 1054 | 1,392,406 | 309 | 43,765 | 3.14 |
+| vguimatsurface.dll | respawn | yes | msvc_17_00_61219 | 8634 | 8012 | 77 | 545 | 1,538,790 | 323 | 46,060 | 2.99 |
 | d3dcompiler_46.dll | microsoft | no | - | 5252 | 5144 | 51 | 57 | 2,734,891 | 0 | 0 | 0.00 |
-| engine.dll | respawn | yes | msvc_17_00_61219 | 27334 | 26264 | 369 | 701 | 5,245,197 | 306 | 42,726 | 0.81 |
-| server.dll | respawn | yes | msvc_17_00_61219 | 39011 | 38118 | 289 | 604 | 7,787,372 | 310 | 43,540 | 0.56 |
-| client.dll | respawn | yes | msvc_17_00_61219 | 38011 | 37103 | 296 | 612 | 7,960,278 | 305 | 42,043 | 0.53 |
+| engine.dll | respawn | yes | msvc_17_00_61219 | 27334 | 26264 | 369 | 701 | 5,245,197 | 308 | 42,914 | 0.82 |
+| server.dll | respawn | yes | msvc_17_00_61219 | 39011 | 38118 | 289 | 604 | 7,787,372 | 311 | 43,709 | 0.56 |
+| client.dll | respawn | yes | msvc_17_00_61219 | 38011 | 37103 | 296 | 612 | 7,960,278 | 305 | 42,103 | 0.53 |
 
-**Decomp targets:** 5,917 / 138,483 functions matched, 797,973 / 28,520,473 bytes (2.80%).
+**Decomp targets:** 5,976 / 138,483 functions matched, 805,020 / 28,520,473 bytes (2.82%).
 
 ## Size distribution of `code` functions (decomp targets)
 
