@@ -16,25 +16,25 @@ static CRT are excluded). Sizes are contiguous bytes (`.pdata` end when availabl
 | inputsystem.dll | respawn | yes | msvc_17_00_61219 | 1562 | 1062 | 18 | 482 | 182,190 | 316 | 45,523 | 24.99 |
 | tier0.dll | respawn | yes | msvc_17_00_61219 | 1884 | 1305 | 18 | 561 | 190,367 | 784 | 86,066 | 45.21 |
 | GFSDK_SSAO.win64.dll | nvidia | no | msvc_16_00_40219 | 1271 | 714 | 119 | 438 | 216,820 | 0 | 0 | 0.00 |
-| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 310 | 44,905 | 19.97 |
+| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 383 | 58,541 | 26.04 |
 | vstdlib.dll | respawn | yes | msvc_17_00_61219 | 1973 | 1475 | 15 | 483 | 227,905 | 1060 | 132,248 | 58.03 |
 | bink2w64.dll | bink | no | msvc_15_00_30729 | 605 | 434 | 29 | 142 | 249,355 | 0 | 0 | 0.00 |
-| launcher.dll | respawn | yes | msvc_17_00_61219 | 1961 | 1398 | 15 | 548 | 258,065 | 302 | 43,678 | 16.93 |
+| launcher.dll | respawn | yes | msvc_17_00_61219 | 1961 | 1398 | 15 | 548 | 258,065 | 362 | 52,276 | 20.26 |
 | studiorender.dll | respawn | yes | msvc_17_00_61219 | 1639 | 1146 | 11 | 482 | 266,421 | 309 | 44,228 | 16.60 |
 | mileswin64.dll | miles | no | msvc_16_00_40219 | 1012 | 780 | 18 | 214 | 268,738 | 0 | 0 | 0.00 |
-| filesystem_stdio.dll | respawn | yes | msvc_17_00_61219 | 3369 | 2730 | 28 | 611 | 564,714 | 303 | 43,878 | 7.77 |
+| filesystem_stdio.dll | respawn | yes | msvc_17_00_61219 | 3369 | 2730 | 28 | 611 | 564,714 | 364 | 52,587 | 9.31 |
 | datacache.dll | respawn | yes | msvc_17_00_61219 | 2568 | 2070 | 14 | 484 | 615,052 | 313 | 45,506 | 7.40 |
-| vgui2.dll | respawn | yes | msvc_17_00_61219 | 4016 | 3418 | 33 | 565 | 664,058 | 300 | 42,204 | 6.36 |
+| vgui2.dll | respawn | yes | msvc_17_00_61219 | 4016 | 3418 | 33 | 565 | 664,058 | 363 | 51,100 | 7.70 |
 | OriginSDK.dll | ea | no | msvc_17_00_61219 | 4633 | 4547 | 71 | 15 | 682,863 | 0 | 0 | 0.00 |
-| vphysics.dll | respawn | yes | msvc_17_00_61219 | 5909 | 5371 | 25 | 513 | 1,302,492 | 352 | 48,775 | 3.74 |
-| materialsystem_dx11.dll | respawn | yes | msvc_17_00_61219 | 8457 | 7305 | 98 | 1054 | 1,392,406 | 309 | 43,765 | 3.14 |
-| vguimatsurface.dll | respawn | yes | msvc_17_00_61219 | 8634 | 8012 | 77 | 545 | 1,538,790 | 323 | 46,060 | 2.99 |
+| vphysics.dll | respawn | yes | msvc_17_00_61219 | 5909 | 5371 | 25 | 513 | 1,302,492 | 354 | 49,034 | 3.76 |
+| materialsystem_dx11.dll | respawn | yes | msvc_17_00_61219 | 8457 | 7305 | 98 | 1054 | 1,392,406 | 368 | 51,965 | 3.73 |
+| vguimatsurface.dll | respawn | yes | msvc_17_00_61219 | 8634 | 8012 | 77 | 545 | 1,538,790 | 381 | 54,555 | 3.55 |
 | d3dcompiler_46.dll | microsoft | no | - | 5252 | 5144 | 51 | 57 | 2,734,891 | 0 | 0 | 0.00 |
-| engine.dll | respawn | yes | msvc_17_00_61219 | 27334 | 26264 | 369 | 701 | 5,245,197 | 308 | 42,914 | 0.82 |
-| server.dll | respawn | yes | msvc_17_00_61219 | 39011 | 38118 | 289 | 604 | 7,787,372 | 311 | 43,709 | 0.56 |
-| client.dll | respawn | yes | msvc_17_00_61219 | 38011 | 37103 | 296 | 612 | 7,960,278 | 305 | 42,103 | 0.53 |
+| engine.dll | respawn | yes | msvc_17_00_61219 | 27334 | 26264 | 369 | 701 | 5,245,197 | 366 | 51,468 | 0.98 |
+| server.dll | respawn | yes | msvc_17_00_61219 | 39011 | 38118 | 289 | 604 | 7,787,372 | 373 | 52,594 | 0.68 |
+| client.dll | respawn | yes | msvc_17_00_61219 | 38011 | 37103 | 296 | 612 | 7,960,278 | 363 | 50,183 | 0.63 |
 
-**Decomp targets:** 5,976 / 138,483 functions matched, 805,020 / 28,520,473 bytes (2.82%).
+**Decomp targets:** 6,530 / 138,483 functions matched, 887,332 / 28,520,473 bytes (3.11%).
 
 ## Size distribution of `code` functions (decomp targets)
 
