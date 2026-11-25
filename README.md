@@ -12,11 +12,11 @@ static CRT are excluded). Sizes are contiguous bytes (`.pdata` end when availabl
 | auditionwin64.dll | miles | no | msvc_16_00_40219 | 253 | 110 | 4 | 139 | 41,365 | 0 | 0 | 0.00 |
 | amd_ags_x64.dll | amd | no | msvc_18_00_40629 | 297 | 165 | 5 | 127 | 43,582 | 0 | 0 | 0.00 |
 | Titanfall2.exe | respawn | no | msvc_17_00_61219 | 227 | 225 | 2 | 0 | 52,368 | 0 | 0 | 0.00 |
-| rtech_game.dll | respawn | yes | msvc_17_00_61219 | 815 | 490 | 6 | 319 | 100,349 | 71 | 9,458 | 9.43 |
+| rtech_game.dll | respawn | yes | msvc_17_00_61219 | 815 | 490 | 6 | 319 | 100,349 | 215 | 29,568 | 29.47 |
 | inputsystem.dll | respawn | yes | msvc_17_00_61219 | 1562 | 1062 | 18 | 482 | 182,190 | 316 | 45,523 | 24.99 |
-| tier0.dll | respawn | yes | msvc_17_00_61219 | 1884 | 1305 | 18 | 561 | 190,367 | 784 | 86,066 | 45.21 |
+| tier0.dll | respawn | yes | msvc_17_00_61219 | 1884 | 1305 | 18 | 561 | 190,367 | 785 | 86,136 | 45.25 |
 | GFSDK_SSAO.win64.dll | nvidia | no | msvc_16_00_40219 | 1271 | 714 | 119 | 438 | 216,820 | 0 | 0 | 0.00 |
-| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 383 | 58,541 | 26.04 |
+| localize.dll | respawn | yes | msvc_17_00_61219 | 1731 | 1216 | 12 | 503 | 224,817 | 517 | 81,269 | 36.15 |
 | vstdlib.dll | respawn | yes | msvc_17_00_61219 | 1973 | 1475 | 15 | 483 | 227,905 | 1060 | 132,248 | 58.03 |
 | bink2w64.dll | bink | no | msvc_15_00_30729 | 605 | 434 | 29 | 142 | 249,355 | 0 | 0 | 0.00 |
 | launcher.dll | respawn | yes | msvc_17_00_61219 | 1961 | 1398 | 15 | 548 | 258,065 | 362 | 52,276 | 20.26 |
@@ -34,7 +34,7 @@ static CRT are excluded). Sizes are contiguous bytes (`.pdata` end when availabl
 | server.dll | respawn | yes | msvc_17_00_61219 | 39011 | 38118 | 289 | 604 | 7,787,372 | 373 | 52,594 | 0.68 |
 | client.dll | respawn | yes | msvc_17_00_61219 | 38011 | 37103 | 296 | 612 | 7,960,278 | 363 | 50,183 | 0.63 |
 
-**Decomp targets:** 6,530 / 138,483 functions matched, 887,332 / 28,520,473 bytes (3.11%).
+**Decomp targets:** 6,809 / 138,483 functions matched, 930,240 / 28,520,473 bytes (3.26%).
 
 ## Size distribution of `code` functions (decomp targets)
 
